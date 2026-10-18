@@ -15,6 +15,7 @@ Dr. Mohd Maqbool Sohil is an interventional cardiologist and Director of Interve
 - **CV (PDF) in this repository:** [Dr-Mohd-Maqbool-Sohil-CV.pdf](site/Dr-Mohd-Maqbool-Sohil-CV.pdf)
 - **ORCID:** [0009-0000-6983-5215](https://orcid.org/0009-0000-6983-5215)
 - **Facebook (procedure videos and posts):** [facebook.com/mohd.m.sohil](https://www.facebook.com/mohd.m.sohil)
+- **LinkedIn:** [linkedin.com/in/mohd-maqbool-sohil-5261a49a](https://www.linkedin.com/in/mohd-maqbool-sohil-5261a49a)
 
 ## Contact and registration
 
