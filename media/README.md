@@ -6,7 +6,7 @@ Images and videos are shared for medical education; patient identifiers have bee
 
 All items were first posted publicly on [facebook.com/mohd.m.sohil](https://www.facebook.com/mohd.m.sohil). Each item links to its original post. Videos are re-encoded copies (H.264, at most 720 px wide) with the audio track removed. Dates are the Facebook posting dates.
 
-Text of the scientific and case posts: [posts.md](posts.md).
+Text of the scientific and case posts: [posts.md](posts.md). LinkedIn posts: [linkedin.md](linkedin.md).
 
 Contents: [Procedures](#procedures) · [Conferences](#conferences) · [Medical science and education](#medical-science-and-education)
 
@@ -14,12 +14,12 @@ Contents: [Procedures](#procedures) · [Conferences](#conferences) · [Medical s
 
 ### Videos
 
-- **25 July 2026.** Angiography cine of the neck vessels showing a carotid stent (no caption on the original post). [Watch the MP4](procedures/2026-07-25-carotid-angiography-and-stenting-cine.mp4) (17 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/1038336385560375/)
+- **25 July 2026.** Angiography cine of the neck vessels showing a carotid stent (no caption on the original post). [Watch the MP4](procedures/2026-07-25-carotid-angiography-and-stenting-cine.mp4) (14 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/1038336385560375/)
 - **21 April 2026.** Series of primary PCI procedures for STEMI performed via the transradial (wrist) approach. Post title: "From Emergency to Recovery: Transforming STEMI Care via Radial Access". [Watch the MP4](procedures/2026-04-21-primary-pci-transradial-stemi-series.mp4) (9 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/3541666609306172/) · [post text](posts.md#primary-pci-via-radial-access)
-- **12 April 2026.** Series of complex coronary chronic total occlusion (CTO) interventions with IVUS imaging. Post caption: "Proud of our team in the Cath Lab!" [Watch the MP4](procedures/2026-04-12-coronary-cto-interventions-series.mp4) (23 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/967979586185658/) · [post text](posts.md#coronary-cto-interventions)
-- **25 January 2026.** Coronary angiography cine (no caption on the original post). [Watch the MP4](procedures/2026-01-25-coronary-angiography-cine.mp4) (37 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/1187141713401852/)
-- **29 November 2025.** Multi-vessel PCI: RCA chronic total occlusion and LAD/diagonal bifurcation (mini-crush), IVUS-guided. Top overlay with patient details blacked out. [Watch the MP4](procedures/2025-11-29-pci-rca-cto-and-lad-diagonal-bifurcation.mp4) (11 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/1849203309012022/) · [post text](posts.md#multi-vessel-pci-rca-cto-and-lad-diagonal-bifurcation)
-- **16 February 2025.** Rotational atherectomy (Rotablator) PCI for severely calcified left main and multivessel coronary artery disease, with HD-IVUS. [Watch the MP4](procedures/2025-02-16-rotablation-calcified-left-main-pci.mp4) (30 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/525129840597538/) · [post text](posts.md#rotablation-for-calcified-left-main-disease)
+- **12 April 2026.** Series of complex coronary chronic total occlusion (CTO) interventions with IVUS imaging. Post caption: "Proud of our team in the Cath Lab!" [Watch the MP4](procedures/2026-04-12-coronary-cto-interventions-series.mp4) (14 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/967979586185658/) · [post text](posts.md#coronary-cto-interventions)
+- **25 January 2026.** Coronary angiography cine (no caption on the original post). [Watch the MP4](procedures/2026-01-25-coronary-angiography-cine.mp4) (14 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/1187141713401852/)
+- **29 November 2025.** Multi-vessel PCI: RCA chronic total occlusion and LAD/diagonal bifurcation (mini-crush), IVUS-guided. Top overlay with patient details blacked out. [Watch the MP4](procedures/2025-11-29-pci-rca-cto-and-lad-diagonal-bifurcation.mp4) (10 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/1849203309012022/) · [post text](posts.md#multi-vessel-pci-rca-cto-and-lad-diagonal-bifurcation)
+- **16 February 2025.** Rotational atherectomy (Rotablator) PCI for severely calcified left main and multivessel coronary artery disease, with HD-IVUS. [Watch the MP4](procedures/2025-02-16-rotablation-calcified-left-main-pci.mp4) (14 MB) · [Original Facebook post](https://www.facebook.com/mohd.m.sohil/videos/525129840597538/) · [post text](posts.md#rotablation-for-calcified-left-main-disease)
 
 ### Photos
 
