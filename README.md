@@ -17,7 +17,7 @@ Dr. Mohd Maqbool Sohil is an interventional cardiologist and Director of Interve
 - **Facebook (procedure videos and posts):** [facebook.com/mohd.m.sohil](https://www.facebook.com/mohd.m.sohil)
 - **LinkedIn:** [linkedin.com/in/mohd-maqbool-sohil-5261a49a](https://www.linkedin.com/in/mohd-maqbool-sohil-5261a49a)
 - **Procedure and conference gallery:** [media](media/README.md)
-- **Patient education animations (ASD device closure, TAVI):** [media/README.md#patient-education-animations](media/README.md#patient-education-animations)
+- **Patient education animations (ASD device closure, TAVI, rotational atherectomy):** [media/README.md#patient-education-animations](media/README.md#patient-education-animations)
 
 ## Contact and registration
 
