@@ -135,17 +135,17 @@ Schematic animations made for patient education. They are diagrams, not recordin
 
 <a href="animations/asd-closure-animation.mp4"><img src="animations/asd-closure-animation-poster.jpg" alt="Poster frame: Transcatheter ASD Device Closure animation" width="480"></a>
 
-Schematic animation of transcatheter closure of a secundum atrial septal defect: femoral venous access, delivery sheath across the defect, left atrial disc then right atrial disc, position checked on TEE/ICE and fluoroscopy, then device release.
+Schematic animation of transcatheter closure of a secundum atrial septal defect: septal anatomy and ASD types (only a secundum defect in the fossa ovalis is suited to a device), left-to-right shunt physiology with right-heart volume overload when Qp:Qs > 1.5, indications, TEE rim assessment, femoral venous access, balloon (stop-flow) sizing, a double-disc nitinol occluder opened as a left atrial disc then a right atrial disc, a push-pull test before release under TEE/ICE and fluoroscopy, then device release, with complications and follow-up.
 
-[Watch the MP4, landscape 1920×1080](animations/asd-closure-animation.mp4) (45 s, 3 MB) · [Watch the MP4, vertical 1080×1920](animations/asd-closure-animation-vertical.mp4) (45 s, 3.4 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/asd-closure-animation.mp4) (2:02, 8.9 MB) · [Watch the MP4, vertical 1080×1920](animations/asd-closure-animation-vertical.mp4) (2:02, 9.8 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg)
 
 ### Transcatheter Aortic Valve Implantation (TAVI) — animated explainer
 
 <a href="animations/tavi-animation.mp4"><img src="animations/tavi-animation-poster.jpg" alt="Poster frame: Transcatheter Aortic Valve Implantation (TAVI) animation" width="480"></a>
 
-Schematic animation of TAVI for severe aortic stenosis: transfemoral arterial access with a large-bore sheath, retrograde wire across the aortic valve into the left ventricle, temporary right ventricular pacing, optional balloon valvuloplasty, then the transcatheter valve positioned across the native annulus below the coronary ostia and deployed under rapid pacing (balloon-expandable valve shown; self-expanding valves are also used), restoring valve function.
+Schematic animation of TAVI for severe aortic stenosis, including severe AS criteria, CT planning and valve sizing: transfemoral arterial access with a large-bore sheath, retrograde wire across the aortic valve into the left ventricle, temporary right ventricular pacing, optional balloon valvuloplasty, then the transcatheter valve positioned across the native annulus below the coronary ostia and deployed under rapid pacing (balloon-expandable valve shown; self-expanding valves are also used), restoring valve function, followed by post-deployment assessment and complications.
 
-[Watch the MP4, landscape 1920×1080](animations/tavi-animation.mp4) (57 s, 4.7 MB) · [Watch the MP4, vertical 1080×1920](animations/tavi-animation-vertical.mp4) (57 s, 5.8 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/tavi-animation.mp4) (2:00, 8.0 MB) · [Watch the MP4, vertical 1080×1920](animations/tavi-animation-vertical.mp4) (2:00, 9.4 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg)
 
 ### Rotational Atherectomy (Rotablation) — animated explainer
 
