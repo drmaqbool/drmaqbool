@@ -155,6 +155,14 @@ Schematic animation of coronary rotational atherectomy for severely calcified le
 
 [Watch the MP4, landscape 1920×1080](animations/rota-animation.mp4) (75 s, 8.5 MB) · [Watch the MP4, vertical 1080×1920](animations/rota-animation-vertical.mp4) (75 s, 8.1 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg)
 
+### Intravascular Ultrasound (IVUS): Setup and Coronary Imaging — animated explainer
+
+<a href="animations/ivus-animation.mp4"><img src="animations/ivus-animation-poster.jpg" alt="Poster frame: IVUS setup and coronary imaging animation" width="480"></a>
+
+Schematic animation of IVUS: console, patient interface module and motorised pullback sled, catheter flush, rotational (40–60 MHz) and phased-array (~20 MHz) catheters, heparin and intracoronary nitroglycerin, automated pullback with cross-sectional and longitudinal views, image anatomy and plaque types, minimal lumen area and plaque burden, landing zones and stent sizing, and post-stent optimisation (expansion, apposition, edge dissection) with non-compliant balloon post-dilatation.
+
+[Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (90 s, 9.0 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (90 s, 8.3 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg)
+
 ---
 
 [Back to profile](../README.md)
