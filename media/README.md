@@ -8,7 +8,7 @@ All items were first posted publicly on [facebook.com/mohd.m.sohil](https://www.
 
 Text of the scientific and case posts: [posts.md](posts.md). LinkedIn posts: [linkedin.md](linkedin.md).
 
-Contents: [Procedures](#procedures) · [Conferences](#conferences) · [Medical science and education](#medical-science-and-education)
+Contents: [Procedures](#procedures) · [Conferences](#conferences) · [Medical science and education](#medical-science-and-education) · [Patient education animations](#patient-education-animations)
 
 ## Procedures
 
@@ -126,6 +126,26 @@ In the cath lab with a colleague (no caption on the original post). [Original Fa
 <img src="science/2026-01-01-publication-rotablation-assisted-left-main-pci.jpg" alt="Publication: Single centre experience of rotablation-assisted left main percutaneous coronary intervention, American Heart Journal Plus: Cardiology Research and Practice (2025)" width="480">
 
 **1 January 2026.** Publication: "Single centre experience of rotablation-assisted left main percutaneous coronary intervention", American Heart Journal Plus: Cardiology Research and Practice (2025). Full post text is in [posts.md](posts.md#publication-rotablation-assisted-left-main-pci). [Original Facebook post](https://www.facebook.com/photo.php?fbid=10241767965326023)
+
+## Patient education animations
+
+Schematic animations made for patient education. They are diagrams, not recordings of a patient procedure, and were not taken from Facebook. H.264 MP4, no audio. For medical education only; not medical advice. Also shown in the [website gallery](https://drmaqboolsohil.deed.page/gallery.html#patient-education).
+
+### Transcatheter ASD Device Closure — animated explainer
+
+<a href="animations/asd-closure-animation.mp4"><img src="animations/asd-closure-animation-poster.jpg" alt="Poster frame: Transcatheter ASD Device Closure animation" width="480"></a>
+
+Schematic animation of transcatheter closure of a secundum atrial septal defect: femoral venous access, delivery sheath across the defect, left atrial disc then right atrial disc, position checked on TEE/ICE and fluoroscopy, then device release.
+
+[Watch the MP4, landscape 1920×1080](animations/asd-closure-animation.mp4) (45 s, 3 MB) · [Watch the MP4, vertical 1080×1920](animations/asd-closure-animation-vertical.mp4) (45 s, 3.4 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg)
+
+### Transcatheter Aortic Valve Implantation (TAVI) — animated explainer
+
+<a href="animations/tavi-animation.mp4"><img src="animations/tavi-animation-poster.jpg" alt="Poster frame: Transcatheter Aortic Valve Implantation (TAVI) animation" width="480"></a>
+
+Schematic animation of TAVI for severe aortic stenosis: transfemoral arterial access with a large-bore sheath, retrograde wire across the aortic valve into the left ventricle, temporary right ventricular pacing, optional balloon valvuloplasty, then the transcatheter valve positioned across the native annulus below the coronary ostia and deployed under rapid pacing (balloon-expandable valve shown; self-expanding valves are also used), restoring valve function.
+
+[Watch the MP4, landscape 1920×1080](animations/tavi-animation.mp4) (57 s, 4.7 MB) · [Watch the MP4, vertical 1080×1920](animations/tavi-animation-vertical.mp4) (57 s, 5.8 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg)
 
 ---
 
