@@ -129,7 +129,7 @@ In the cath lab with a colleague (no caption on the original post). [Original Fa
 
 ## Patient education animations
 
-Schematic animations made for patient education. They are diagrams, not recordings of a patient procedure, and were not taken from Facebook. H.264 MP4, no audio. For medical education only; not medical advice. Also shown in the [website gallery](https://drmaqboolsohil.deed.page/gallery.html#patient-education).
+Schematic animations made for patient education. They are diagrams, not recordings of a patient procedure, and were not taken from Facebook. Videos are titled "Dr. Mohd Maqbool Sohil, MD, DM, FSCAI — Interventional Cardiologist". H.264 MP4, no audio. For medical education only; not medical advice. Also shown in the [website gallery](https://drmaqboolsohil.deed.page/gallery.html#patient-education).
 
 ### Transcatheter ASD Device Closure — animated explainer
 
@@ -137,7 +137,7 @@ Schematic animations made for patient education. They are diagrams, not recordin
 
 Schematic animation of transcatheter closure of a secundum atrial septal defect: septal anatomy and ASD types (only a secundum defect in the fossa ovalis is suited to a device), left-to-right shunt physiology with right-heart volume overload when Qp:Qs > 1.5, indications, TEE rim assessment, femoral venous access, balloon (stop-flow) sizing, a double-disc nitinol occluder opened as a left atrial disc then a right atrial disc, a push-pull test before release under TEE/ICE and fluoroscopy, then device release, with complications and follow-up.
 
-[Watch the MP4, landscape 1920×1080](animations/asd-closure-animation.mp4) (2:02, 8.9 MB) · [Watch the MP4, vertical 1080×1920](animations/asd-closure-animation-vertical.mp4) (2:02, 9.8 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/asd-closure-animation.mp4) (2:02, 11.1 MB) · [Watch the MP4, vertical 1080×1920](animations/asd-closure-animation-vertical.mp4) (2:02, 12.2 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg) · [4K landscape](animations/4k/asd-closure-animation-4k.mp4) (21.6 MB) · [4K vertical](animations/4k/asd-closure-animation-vertical-4k.mp4) (24.1 MB)
 
 ### Transcatheter Aortic Valve Implantation (TAVI) — animated explainer
 
@@ -145,7 +145,7 @@ Schematic animation of transcatheter closure of a secundum atrial septal defect:
 
 Schematic animation of TAVI for severe aortic stenosis, including severe AS criteria, CT planning and valve sizing: transfemoral arterial access with a large-bore sheath, retrograde wire across the aortic valve into the left ventricle, temporary right ventricular pacing, optional balloon valvuloplasty, then the transcatheter valve positioned across the native annulus below the coronary ostia and deployed under rapid pacing (balloon-expandable valve shown; self-expanding valves are also used), restoring valve function, followed by post-deployment assessment and complications.
 
-[Watch the MP4, landscape 1920×1080](animations/tavi-animation.mp4) (2:00, 8.0 MB) · [Watch the MP4, vertical 1080×1920](animations/tavi-animation-vertical.mp4) (2:00, 9.4 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/tavi-animation.mp4) (2:00, 12.1 MB) · [Watch the MP4, vertical 1080×1920](animations/tavi-animation-vertical.mp4) (2:00, 14.2 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg) · [4K landscape](animations/4k/tavi-animation-4k.mp4) (24.2 MB) · [4K vertical](animations/4k/tavi-animation-vertical-4k.mp4) (28.7 MB)
 
 ### Rotational Atherectomy (Rotablation) — animated explainer
 
@@ -153,7 +153,7 @@ Schematic animation of TAVI for severe aortic stenosis, including severe AS crit
 
 Schematic animation of coronary rotational atherectomy for severely calcified lesions: calcium scoring on OCT and IVUS (arc, thickness and length; a high score predicts stent underexpansion), IVUS showing 360° superficial calcium, 0.009-inch rotational atherectomy guidewire, diamond-coated burr sized at a burr-to-artery ratio of about 0.5–0.6, platform speed about 140,000–180,000 rpm in short pecking runs of about 15–20 s avoiding speed drops over 5,000 rpm with continuous flush, differential cutting of inelastic calcium, microparticles mostly under 10 µm, burr-entrapment prevention and bailout, then non-compliant balloon dilatation and drug-eluting stent with IVUS-confirmed expansion.
 
-[Watch the MP4, landscape 1920×1080](animations/rota-animation.mp4) (1:37, 10.3 MB) · [Watch the MP4, vertical 1080×1920](animations/rota-animation-vertical.mp4) (1:37, 9.8 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/rota-animation.mp4) (1:37, 13.0 MB) · [Watch the MP4, vertical 1080×1920](animations/rota-animation-vertical.mp4) (1:37, 13.3 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg) · [4K landscape](animations/4k/rota-animation-4k.mp4) (27.3 MB) · [4K vertical](animations/4k/rota-animation-vertical-4k.mp4) (27.5 MB)
 
 ### Intravascular Ultrasound (IVUS): Setup and Coronary Imaging — animated explainer
 
@@ -161,7 +161,7 @@ Schematic animation of coronary rotational atherectomy for severely calcified le
 
 Schematic animation of IVUS: console, patient interface module and motorised pullback sled, catheter flush, rotational (40–60 MHz) and phased-array (~20 MHz) catheters, heparin and intracoronary nitroglycerin, automated pullback with cross-sectional and longitudinal views, image anatomy and plaque types, minimal lumen area and plaque burden, landing zones and stent-sizing nuances (EEM-based distal reference diameter rounded down, or lumen-based diameter plus up to 0.5 mm, with proximal post-dilatation towards the proximal reference), and post-stent optimisation (expansion, apposition, edge dissection) with non-compliant balloon post-dilatation.
 
-[Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (1:41, 9.9 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (1:41, 9.2 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (1:41, 13.9 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (1:41, 14.0 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg) · [4K landscape](animations/4k/ivus-animation-4k.mp4) (30.0 MB) · [4K vertical](animations/4k/ivus-animation-vertical-4k.mp4) (29.6 MB)
 
 ---
 
