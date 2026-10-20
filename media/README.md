@@ -151,17 +151,17 @@ Schematic animation of TAVI for severe aortic stenosis, including severe AS crit
 
 <a href="animations/rota-animation.mp4"><img src="animations/rota-animation-poster.jpg" alt="Poster frame: Rotational atherectomy animation" width="480"></a>
 
-Schematic animation of coronary rotational atherectomy for severely calcified lesions: IVUS showing 360° superficial calcium, 0.009-inch rotational atherectomy guidewire, diamond-coated burr sized at a burr-to-artery ratio of about 0.5–0.6, platform speed about 140,000–180,000 rpm in short pecking runs of about 15–20 s avoiding speed drops over 5,000 rpm with continuous flush, differential cutting of inelastic calcium, microparticles mostly under 10 µm, then non-compliant balloon dilatation and drug-eluting stent with IVUS-confirmed expansion.
+Schematic animation of coronary rotational atherectomy for severely calcified lesions: calcium scoring on OCT and IVUS (arc, thickness and length; a high score predicts stent underexpansion), IVUS showing 360° superficial calcium, 0.009-inch rotational atherectomy guidewire, diamond-coated burr sized at a burr-to-artery ratio of about 0.5–0.6, platform speed about 140,000–180,000 rpm in short pecking runs of about 15–20 s avoiding speed drops over 5,000 rpm with continuous flush, differential cutting of inelastic calcium, microparticles mostly under 10 µm, burr-entrapment prevention and bailout, then non-compliant balloon dilatation and drug-eluting stent with IVUS-confirmed expansion.
 
-[Watch the MP4, landscape 1920×1080](animations/rota-animation.mp4) (75 s, 8.5 MB) · [Watch the MP4, vertical 1080×1920](animations/rota-animation-vertical.mp4) (75 s, 8.1 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/rota-animation.mp4) (1:37, 10.3 MB) · [Watch the MP4, vertical 1080×1920](animations/rota-animation-vertical.mp4) (1:37, 9.8 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg)
 
 ### Intravascular Ultrasound (IVUS): Setup and Coronary Imaging — animated explainer
 
 <a href="animations/ivus-animation.mp4"><img src="animations/ivus-animation-poster.jpg" alt="Poster frame: IVUS setup and coronary imaging animation" width="480"></a>
 
-Schematic animation of IVUS: console, patient interface module and motorised pullback sled, catheter flush, rotational (40–60 MHz) and phased-array (~20 MHz) catheters, heparin and intracoronary nitroglycerin, automated pullback with cross-sectional and longitudinal views, image anatomy and plaque types, minimal lumen area and plaque burden, landing zones and stent sizing, and post-stent optimisation (expansion, apposition, edge dissection) with non-compliant balloon post-dilatation.
+Schematic animation of IVUS: console, patient interface module and motorised pullback sled, catheter flush, rotational (40–60 MHz) and phased-array (~20 MHz) catheters, heparin and intracoronary nitroglycerin, automated pullback with cross-sectional and longitudinal views, image anatomy and plaque types, minimal lumen area and plaque burden, landing zones and stent-sizing nuances (EEM-based distal reference diameter rounded down, or lumen-based diameter plus up to 0.5 mm, with proximal post-dilatation towards the proximal reference), and post-stent optimisation (expansion, apposition, edge dissection) with non-compliant balloon post-dilatation.
 
-[Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (90 s, 9.0 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (90 s, 8.3 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg)
+[Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (1:41, 9.9 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (1:41, 9.2 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg)
 
 ---
 
