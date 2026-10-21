@@ -163,6 +163,14 @@ Schematic animation of IVUS: console, patient interface module and motorised pul
 
 [Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (1:41, 13.9 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (1:41, 14.0 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg) · [4K landscape](animations/4k/ivus-animation-4k.mp4) (30.0 MB) · [4K vertical](animations/4k/ivus-animation-vertical-4k.mp4) (29.6 MB)
 
+### Retrograde CTO Intervention — animated explainer
+
+<a href="animations/retrograde-cto-animation.mp4"><img src="animations/retrograde-cto-animation-poster.jpg" alt="Poster frame: Retrograde CTO Intervention animation" width="480"></a>
+
+136 s educational animation covering CTO definition, J-CTO score, dual injection, collateral grading and selection, retrograde setup and septal wire surfing, reverse CART and CART, externalization, IVUS-guided stenting, and complications. Dr. Mohd Maqbool Sohil, MD, DM, FSCAI, Interventional Cardiologist.
+
+[Watch the MP4, landscape 1920×1080](animations/retrograde-cto-animation.mp4) (2:16, 12.2 MB) · [Watch the MP4, vertical 1080×1920](animations/retrograde-cto-animation-vertical.mp4) (2:16, 12.8 MB) · [Vertical poster](animations/retrograde-cto-animation-vertical-poster.jpg) · [4K landscape](animations/4k/retrograde-cto-animation-4k.mp4) (23.1 MB) · [4K vertical](animations/4k/retrograde-cto-animation-vertical-4k.mp4) (24.1 MB)
+
 ---
 
 [Back to profile](../README.md)
