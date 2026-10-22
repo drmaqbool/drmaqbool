@@ -90,6 +90,7 @@ Schematic patient-education animations (diagrams, not recordings of a patient; H
 - [Rotational atherectomy](https://drmaqboolsohil.deed.page/gallery.html#v-rota-animation)
 - [IVUS set-up and coronary imaging](https://drmaqboolsohil.deed.page/gallery.html#v-ivus-animation)
 - [Retrograde CTO PCI](https://drmaqboolsohil.deed.page/gallery.html#v-retrograde-cto-animation)
+- [Radial Angioplasty: Heart Stenting Through the Wrist](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation.mp4) — Transradial (wrist) coronary angioplasty: non-surgical, no cut and no stitches; done through a small needle puncture under local anaesthesia. Covers access, route to the heart, balloon and drug-eluting stent, wrist compression band, recovery, and why radial access is preferred (RIVAL, MATRIX, ESC 2023 Class I-A). [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation.mp4) (2:09, 11.2 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-vertical.mp4) (2:09, 11.0 MB) · [Poster](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-poster.jpg)
 
 All animations, landscape and vertical: [gallery, patient education section](https://drmaqboolsohil.deed.page/gallery.html#patient-education)
 
