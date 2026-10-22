@@ -171,6 +171,14 @@ Schematic animation of IVUS: console, patient interface module and motorised pul
 
 [Watch the MP4, landscape 1920×1080](animations/retrograde-cto-animation.mp4) (2:16, 12.2 MB) · [Watch the MP4, vertical 1080×1920](animations/retrograde-cto-animation-vertical.mp4) (2:16, 12.8 MB) · [Vertical poster](animations/retrograde-cto-animation-vertical-poster.jpg) · [4K landscape](animations/4k/retrograde-cto-animation-4k.mp4) (23.1 MB) · [4K vertical](animations/4k/retrograde-cto-animation-vertical-4k.mp4) (24.1 MB)
 
+### Radial Angioplasty: Heart Stenting Through the Wrist — animated explainer
+
+<a href="animations/radial-angioplasty-animation.mp4"><img src="animations/radial-angioplasty-animation-poster.jpg" alt="Poster frame: Radial Angioplasty: Heart Stenting Through the Wrist animation" width="480"></a>
+
+Transradial (wrist) coronary angioplasty: non-surgical, no cut and no stitches; done through a small needle puncture under local anaesthesia. Covers access, route to the heart, balloon and drug-eluting stent, wrist compression band, recovery, and why radial access is preferred (RIVAL, MATRIX, ESC 2023 Class I-A).
+
+[Watch the MP4, landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation.mp4) (2:09, 11.2 MB) · [Watch the MP4, vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-vertical.mp4) (2:09, 11.0 MB) · [Poster](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-poster.jpg)
+
 ---
 
 [Back to profile](../README.md)
