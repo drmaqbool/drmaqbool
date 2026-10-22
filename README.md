@@ -17,6 +17,7 @@ I am **Dr. Mohd Maqbool Sohil**, an interventional cardiologist and Director of 
 - Procedure and conference gallery: [media/README.md](media/README.md)
 - Procedure videos: [media/README.md#procedures](media/README.md#procedures)
 - LinkedIn posts: [media/linkedin.md](media/linkedin.md)
+- Presentations: [presentations/README.md](presentations/README.md)
 
 ## Clinical interests
 
@@ -99,6 +100,10 @@ Copies in this repository: [media/README.md#patient-education-animations](media/
 ## Publications
 
 A selected list with DOI and PubMed links is on the website: https://drmaqboolsohil.deed.page/#publications
+
+## Presentations
+
+- [Single centre experience of rotablation-assisted left main percutaneous coronary intervention](presentations/README.md) — Sohil MM, Masood I, Goyal D, Rashid H. *American Heart Journal Plus: Cardiology Research and Practice* 2026;61:100678
 
 ## Teaching and presentations
 
