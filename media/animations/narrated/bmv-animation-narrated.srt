@@ -1,0 +1,271 @@
+1
+00:00:00,288 --> 00:00:04,916
+Balloon Mitral Valvotomy, explained
+by Dr. Mohd Maqbool Sohil,
+
+2
+00:00:04,966 --> 00:00:06,788
+Interventional Cardiologist.
+
+3
+00:00:07,208 --> 00:00:09,243
+In rheumatic mitral stenosis,
+
+4
+00:00:09,339 --> 00:00:13,027
+the mitral valve is thickened
+and its opening is narrowed,
+
+5
+00:00:13,077 --> 00:00:16,565
+so blood backs up into
+an enlarged left atrium.
+
+6
+00:00:17,134 --> 00:00:18,836
+This causes breathlessness,
+
+7
+00:00:18,896 --> 00:00:23,860
+and the enlarged atrium can beat
+irregularly, called atrial fibrillation.
+
+8
+00:00:24,288 --> 00:00:27,250
+The edges of the two
+leaflets, the commissures,
+
+9
+00:00:27,300 --> 00:00:30,359
+are fused, leaving a
+small fish-mouth opening.
+
+10
+00:00:31,000 --> 00:00:38,178
+A normal valve area is 4–6 cm²;
+severe stenosis is 1.5 cm² or less.
+
+11
+00:00:38,621 --> 00:00:40,430
+Echo decides suitability.
+
+12
+00:00:41,071 --> 00:00:43,821
+A transoesophageal echo, or TOE,
+
+13
+00:00:43,952 --> 00:00:48,571
+checks for clot in the left atrium
+and for leakage before the procedure.
+
+14
+00:00:49,214 --> 00:00:53,071
+A clot or more than mild
+leakage usually rules it out.
+
+15
+00:00:53,554 --> 00:00:55,814
+It is done through a vein in the groin,
+
+16
+00:00:55,864 --> 00:00:59,388
+without open-heart surgery,
+and with no chest cut.
+
+17
+00:00:59,992 --> 00:01:02,611
+Under local anaesthetic, a needle,
+
+18
+00:01:02,707 --> 00:01:06,588
+a guidewire and a sheath enter
+the femoral vein in the groin.
+
+19
+00:01:07,147 --> 00:01:11,195
+The route runs up the inferior
+vena cava to the right atrium.
+
+20
+00:01:11,601 --> 00:01:13,875
+Step one: transseptal puncture.
+
+21
+00:01:14,539 --> 00:01:18,418
+A needle inside a long sheath
+crosses the thin fossa ovalis,
+
+22
+00:01:18,468 --> 00:01:23,134
+in the wall between the atria, from
+the right atrium into the left atrium.
+
+23
+00:01:23,706 --> 00:01:25,991
+Heparin is given to prevent clots.
+
+24
+00:01:26,401 --> 00:01:27,210
+Step two.
+
+25
+00:01:27,863 --> 00:01:33,182
+A coiled wire is placed in the left atrium,
+the opening in the septum is widened,
+
+26
+00:01:33,232 --> 00:01:36,160
+and the slender Inoue
+balloon follows the wire.
+
+27
+00:01:36,601 --> 00:01:37,541
+Step three.
+
+28
+00:01:38,122 --> 00:01:40,265
+With its tip partly inflated,
+
+29
+00:01:40,384 --> 00:01:45,301
+the balloon is steered across the narrowed
+mitral valve into the left ventricle.
+
+30
+00:01:45,668 --> 00:01:48,132
+Step four: stepwise inflation.
+
+31
+00:01:48,737 --> 00:01:52,832
+The distal part is inflated and
+pulled back against the valve.
+
+32
+00:01:53,391 --> 00:01:57,249
+The proximal part then
+inflates, forming an hourglass.
+
+33
+00:01:57,832 --> 00:02:01,320
+As the waist expands, the
+fused commissures split.
+
+34
+00:02:01,768 --> 00:02:02,720
+Step five.
+
+35
+00:02:03,277 --> 00:02:05,801
+The balloon size is based on height.
+
+36
+00:02:06,408 --> 00:02:12,108
+Inflation starts below the reference size
+and is increased one millimetre at a time,
+
+37
+00:02:12,158 --> 00:02:15,634
+with echo and pressure
+checks after each inflation.
+
+38
+00:02:16,054 --> 00:02:20,340
+After a successful procedure,
+the valve opening is larger,
+
+39
+00:02:20,400 --> 00:02:23,816
+and the pressures in the
+left atrium and lungs fall.
+
+40
+00:02:24,350 --> 00:02:32,016
+In one randomised trial, the average
+valve area rose from 0.9 to 2.1 cm².
+
+41
+00:02:32,588 --> 00:02:35,147
+Results vary from person to person.
+
+42
+00:02:35,534 --> 00:02:38,558
+The sheath is removed from
+the vein in the groin.
+
+43
+00:02:39,103 --> 00:02:40,937
+There is no chest scar.
+
+44
+00:02:41,556 --> 00:02:46,199
+Many people go home within one to
+two days; individual cases vary.
+
+45
+00:02:46,782 --> 00:02:48,663
+Regular echo check-ups follow.
+
+46
+00:02:49,121 --> 00:02:51,952
+Major cardiology guidelines
+recommend balloon
+
+47
+00:02:52,002 --> 00:02:55,071
+valvotomy for suitable
+patients with symptoms,
+
+48
+00:02:55,121 --> 00:02:59,859
+and randomised trials found results
+comparable to open-heart commissurotomy.
+
+49
+00:03:01,121 --> 00:03:04,597
+As with any heart
+procedure, there are risks,
+
+50
+00:03:04,680 --> 00:03:08,895
+such as valve leakage, bleeding
+around the heart, or stroke.
+
+51
+00:03:09,500 --> 00:03:14,797
+Careful selection, imaging and stepwise
+inflation are used to reduce them.
+
+52
+00:03:15,369 --> 00:03:19,964
+Your cardiologist will discuss
+benefits and risks for your situation.
+
+53
+00:03:20,381 --> 00:03:21,286
+Key points.
+
+54
+00:03:21,890 --> 00:03:25,259
+Through a vein in the groin,
+under local anaesthetic,
+
+55
+00:03:25,510 --> 00:03:28,736
+with no open-heart
+surgery and no chest cut.
+
+56
+00:03:29,367 --> 00:03:32,531
+Stepwise inflation splits
+the fused commissures,
+
+57
+00:03:32,581 --> 00:03:35,759
+for a larger valve opening
+and lower pressures.
+
+58
+00:03:36,188 --> 00:03:41,366
+This animation is for education and is
+not a substitute for medical advice.
+

@@ -1,0 +1,247 @@
+1
+00:00:00,258 --> 00:00:04,862
+Intravascular Ultrasound, or
+IVUS: Setup and Coronary Imaging,
+
+2
+00:00:04,912 --> 00:00:09,508
+explained by Dr. Mohd Maqbool
+Sohil, Interventional Cardiologist.
+
+3
+00:00:09,891 --> 00:00:15,603
+The IVUS system: an imaging console connects
+by cable to a patient interface module,
+
+4
+00:00:15,653 --> 00:00:20,296
+or PIM, on a motorised pullback
+sled, covered with a sterile bag.
+
+5
+00:00:20,691 --> 00:00:23,191
+The catheter is connected to the PIM.
+
+6
+00:00:23,772 --> 00:00:28,460
+Rotational catheters are flushed with
+heparinised saline to remove air,
+
+7
+00:00:28,510 --> 00:00:30,296
+which would degrade the image.
+
+8
+00:00:30,791 --> 00:00:35,253
+Rotational catheters, 40–60
+MHz, high definition,
+
+9
+00:00:35,303 --> 00:00:39,470
+or phased-array solid-state
+catheters, of about 20 MHz.
+
+10
+00:00:40,039 --> 00:00:44,753
+They are about 3 Fr, compatible
+with a 6 Fr guide catheter.
+
+11
+00:00:45,224 --> 00:00:50,317
+Before instrumenting the coronary artery:
+systemic heparin with ACT monitoring,
+
+12
+00:00:50,367 --> 00:00:53,569
+and intracoronary nitroglycerin
+to prevent spasm.
+
+13
+00:00:53,938 --> 00:00:54,878
+Step one.
+
+14
+00:00:55,459 --> 00:00:57,507
+The guide catheter is engaged,
+
+15
+00:00:57,638 --> 00:01:03,733
+and a 0.014-inch guidewire is advanced
+across the lesion to the distal vessel.
+
+16
+00:01:04,071 --> 00:01:04,880
+Step two.
+
+17
+00:01:05,509 --> 00:01:09,376
+The IVUS catheter is advanced
+over the wire, monorail,
+
+18
+00:01:09,426 --> 00:01:15,354
+until the transducer lies well beyond the
+lesion, ideally more than 10 mm distal.
+
+19
+00:01:15,704 --> 00:01:16,645
+Step three.
+
+20
+00:01:17,226 --> 00:01:21,083
+Automated pullback at about 0.5–1 mm/s:
+
+21
+00:01:21,142 --> 00:01:26,069
+the sled draws the transducer back while
+a live short-axis image is acquired,
+
+22
+00:01:26,119 --> 00:01:27,440
+shown time-compressed.
+
+23
+00:01:27,871 --> 00:01:30,073
+Stacked frames form the L-mode,
+
+24
+00:01:30,252 --> 00:01:32,595
+a longitudinal view used to locate the
+
+25
+00:01:32,645 --> 00:01:35,609
+minimal lumen site and
+the reference segments.
+
+26
+00:01:35,984 --> 00:01:39,853
+Short-axis anatomy: the
+lumen, intima and plaque,
+
+27
+00:01:39,937 --> 00:01:42,518
+the dark media, the bright adventitia,
+
+28
+00:01:42,568 --> 00:01:48,353
+and the EEM border, with artefacts from
+the guidewire and catheter ring-down.
+
+29
+00:01:48,671 --> 00:01:52,050
+Plaque types: fibrous,
+with intermediate echoes;
+
+30
+00:01:52,100 --> 00:01:55,335
+attenuated, with signal
+loss without calcium;
+
+31
+00:01:55,385 --> 00:02:00,183
+and calcified, bright with shadowing,
+with the arc measured in degrees.
+
+32
+00:02:00,624 --> 00:02:07,612
+At the minimal lumen area, or MLA, site,
+the lumen and EEM borders are traced.
+
+33
+00:02:08,205 --> 00:02:15,146
+Plaque burden is the EEM area minus the
+lumen area, divided by the EEM area.
+
+34
+00:02:15,538 --> 00:02:21,002
+Proximal and distal references guide
+sizing, EEM-based or lumen-based.
+
+35
+00:02:21,595 --> 00:02:27,488
+Landing zones with plaque burden < 50%
+define the stent length on L-mode.
+
+36
+00:02:28,181 --> 00:02:33,443
+EEM-based sizing usually allows a
+larger stent than lumen-based sizing.
+
+37
+00:02:34,024 --> 00:02:38,441
+Heavily calcified segments need
+lesion preparation before stenting.
+
+38
+00:02:38,824 --> 00:02:43,396
+After stenting, IVUS checks
+minimum stent area, or MSA,
+
+39
+00:02:43,479 --> 00:02:46,836
+apposition, edge dissection
+and tissue protrusion.
+
+40
+00:02:47,417 --> 00:02:50,679
+Here, the stent is
+underexpanded in calcium.
+
+41
+00:02:51,058 --> 00:02:56,046
+Non-compliant balloon post-dilatation
+at high pressure improves expansion.
+
+42
+00:02:56,639 --> 00:03:03,877
+The MSA rises above 5.5 mm², and
+above 90% of the distal reference.
+
+43
+00:03:04,251 --> 00:03:10,141
+Final run: the stent is well expanded and
+apposed, with no major edge dissection,
+
+44
+00:03:10,191 --> 00:03:14,632
+and landing zones in segments
+with plaque burden < 50%.
+
+45
+00:03:15,051 --> 00:03:15,956
+Key points.
+
+46
+00:03:16,560 --> 00:03:17,522
+Why IVUS:
+
+47
+00:03:17,572 --> 00:03:21,475
+randomised trials and
+meta-analyses show fewer adverse
+
+48
+00:03:21,525 --> 00:03:25,165
+events with IVUS-guided than
+angiography-guided stenting,
+
+49
+00:03:25,215 --> 00:03:29,263
+and it measures vessel size,
+plaque and the stent result.
+
+50
+00:03:29,858 --> 00:03:34,760
+Indications include left main
+disease, long and calcified lesions,
+
+51
+00:03:34,810 --> 00:03:40,215
+chronic total occlusion, bifurcation,
+stent failure, and ambiguous angiography.
+
+52
+00:03:40,624 --> 00:03:45,803
+This animation is for education and is
+not a substitute for medical advice.
+
