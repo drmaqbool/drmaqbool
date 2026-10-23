@@ -1,0 +1,254 @@
+1
+00:00:00,218 --> 00:00:02,694
+Transcatheter ASD Device Closure,
+
+2
+00:00:02,825 --> 00:00:07,456
+explained by Dr. Mohd Maqbool
+Sohil, Interventional Cardiologist.
+
+3
+00:00:07,818 --> 00:00:12,315
+Heart anatomy, front view:
+oxygen-poor blood on the right side,
+
+4
+00:00:12,365 --> 00:00:16,496
+in blue, and oxygen-rich blood
+on the left side, in red.
+
+5
+00:00:16,804 --> 00:00:21,685
+Secundum ASD: a deficiency of the
+septum in the fossa ovalis region.
+
+6
+00:00:22,290 --> 00:00:25,504
+Blood shunts from the left
+atrium to the right atrium.
+
+7
+00:00:25,891 --> 00:00:28,439
+Defects are classified by location.
+
+8
+00:00:29,031 --> 00:00:33,981
+Only the secundum type, in the fossa
+ovalis, is suited to device closure;
+
+9
+00:00:34,031 --> 00:00:36,996
+the other types are usually
+repaired surgically.
+
+10
+00:00:37,493 --> 00:00:41,696
+A left-to-right atrial shunt causes
+right heart volume overload.
+
+11
+00:00:42,396 --> 00:00:48,527
+A Qp:Qs above 1.5 indicates a
+haemodynamically significant shunt.
+
+12
+00:00:48,851 --> 00:00:52,968
+Closure is indicated for a
+secundum ASD with right heart
+
+13
+00:00:53,018 --> 00:00:57,158
+volume overload and acceptable
+pulmonary vascular resistance,
+
+14
+00:00:57,208 --> 00:00:59,649
+using typical guideline thresholds.
+
+15
+00:01:00,018 --> 00:01:03,779
+Transoesophageal echo measures
+the defect and its rims.
+
+16
+00:01:04,360 --> 00:01:08,277
+Rims of at least 5 mm
+are generally adequate,
+
+17
+00:01:08,408 --> 00:01:11,991
+and a deficient retro-aortic
+rim is usually acceptable.
+
+18
+00:01:12,338 --> 00:01:13,278
+Step one.
+
+19
+00:01:13,859 --> 00:01:16,561
+Femoral venous access, with heparin.
+
+20
+00:01:17,204 --> 00:01:22,095
+A catheter is advanced via the
+IVC into the right atrium,
+
+21
+00:01:22,145 --> 00:01:26,728
+under TEE/ICE and fluoroscopic guidance.
+
+22
+00:01:27,138 --> 00:01:27,947
+Step two.
+
+23
+00:01:28,576 --> 00:01:31,264
+The defect is crossed
+into the left atrium,
+
+24
+00:01:31,314 --> 00:01:34,823
+with a stiff wire usually parked
+in a left pulmonary vein,
+
+25
+00:01:34,873 --> 00:01:36,826
+and the delivery sheath follows.
+
+26
+00:01:37,238 --> 00:01:38,178
+Step three.
+
+27
+00:01:38,795 --> 00:01:44,114
+A compliant sizing balloon is inflated
+across the defect until colour flow stops:
+
+28
+00:01:44,164 --> 00:01:45,676
+the stop-flow diameter.
+
+29
+00:01:46,091 --> 00:01:50,124
+The stop-flow diameter guides
+device size: a self-expanding,
+
+30
+00:01:50,174 --> 00:01:54,460
+double-disc nitinol occluder, whose
+connecting waist fills the defect.
+
+31
+00:01:56,571 --> 00:01:57,476
+Step four.
+
+32
+00:01:58,116 --> 00:02:02,304
+The left atrial disc of the occluder
+is opened in the left atrium,
+
+33
+00:02:02,354 --> 00:02:05,009
+then pulled back flush against the septum.
+
+34
+00:02:05,404 --> 00:02:06,357
+Step five.
+
+35
+00:02:06,914 --> 00:02:11,021
+The waist fills the defect and
+the right atrial disc is opened.
+
+36
+00:02:11,628 --> 00:02:14,533
+The septal rims are held
+between the two discs.
+
+37
+00:02:14,938 --> 00:02:15,890
+Step six.
+
+38
+00:02:16,495 --> 00:02:21,945
+The position is confirmed
+by TEE/ICE and fluoroscopy:
+
+39
+00:02:21,995 --> 00:02:26,019
+one disc on each side of the
+septum, with the rims captured.
+
+40
+00:02:26,358 --> 00:02:29,915
+Before release, a gentle
+push-pull, or Minnesota,
+
+41
+00:02:29,965 --> 00:02:34,700
+test with TEE/ICE and
+fluoroscopy confirms that
+
+42
+00:02:34,750 --> 00:02:38,489
+the device is stable and
+clear of nearby structures.
+
+43
+00:02:38,871 --> 00:02:39,835
+Step seven.
+
+44
+00:02:40,416 --> 00:02:45,497
+After a stability test, the delivery
+cable is unscrewed to release the device,
+
+45
+00:02:45,547 --> 00:02:49,166
+and the sheath is withdrawn down the IVC.
+
+46
+00:02:49,558 --> 00:02:51,070
+The shunt is abolished.
+
+47
+00:02:51,674 --> 00:02:55,400
+Over the following months, the
+device is covered by tissue,
+
+48
+00:02:55,520 --> 00:02:57,900
+a process called endothelialisation.
+
+49
+00:02:58,284 --> 00:03:03,772
+Complications are uncommon, but include
+embolisation, erosion and arrhythmia.
+
+50
+00:03:04,341 --> 00:03:07,803
+Antiplatelet therapy and
+endocarditis prophylaxis
+
+51
+00:03:07,853 --> 00:03:10,449
+typically continue for about six months.
+
+52
+00:03:10,838 --> 00:03:11,978
+Patient selection,
+
+53
+00:03:12,028 --> 00:03:14,347
+echo-guided sizing and a stable device
+
+54
+00:03:14,397 --> 00:03:17,909
+position are central to
+safe ASD device closure.
+
+55
+00:03:19,858 --> 00:03:25,036
+This animation is for education and is
+not a substitute for medical advice.
+

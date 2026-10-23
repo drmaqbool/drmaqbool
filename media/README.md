@@ -8,7 +8,7 @@ All items were first posted publicly on [facebook.com/mohd.m.sohil](https://www.
 
 Text of the scientific and case posts: [posts.md](posts.md). LinkedIn posts: [linkedin.md](linkedin.md).
 
-Contents: [Procedures](#procedures) · [Conferences](#conferences) · [Medical science and education](#medical-science-and-education) · [Patient education animations](#patient-education-animations)
+Contents: [Procedures](#procedures) · [Conferences](#conferences) · [Medical science and education](#medical-science-and-education) · [Patient education animations](#patient-education-animations) · [Patient education animations, with English voice narration](#patient-education-animations-with-english-voice-narration)
 
 ## Procedures
 
@@ -129,7 +129,7 @@ In the cath lab with a colleague (no caption on the original post). [Original Fa
 
 ## Patient education animations
 
-Schematic animations made for patient education. They are diagrams, not recordings of a patient procedure, and were not taken from Facebook. Videos are titled "Dr. Mohd Maqbool Sohil, MD, DM, FSCAI — Interventional Cardiologist". H.264 MP4, no audio. For medical education only; not medical advice. Also shown in the [website gallery](https://drmaqboolsohil.deed.page/gallery.html#patient-education).
+Schematic animations made for patient education. They are diagrams, not recordings of a patient procedure, and were not taken from Facebook. Videos are titled "Dr. Mohd Maqbool Sohil, MD, DM, FSCAI — Interventional Cardiologist". H.264 MP4, no voice. For medical education only; not medical advice. Also shown in the [website gallery](https://drmaqboolsohil.deed.page/gallery.html#patient-education). English voice-narrated copies are in [Patient education animations, with English voice narration](#patient-education-animations-with-english-voice-narration).
 
 ### Transcatheter ASD Device Closure — animated explainer
 
@@ -137,7 +137,7 @@ Schematic animations made for patient education. They are diagrams, not recordin
 
 Schematic animation of transcatheter closure of a secundum atrial septal defect: septal anatomy and ASD types (only a secundum defect in the fossa ovalis is suited to a device), left-to-right shunt physiology with right-heart volume overload when Qp:Qs > 1.5, indications, TEE rim assessment, femoral venous access, balloon (stop-flow) sizing, a double-disc nitinol occluder opened as a left atrial disc then a right atrial disc, a push-pull test before release under TEE/ICE and fluoroscopy, then device release, with complications and follow-up.
 
-[Watch the MP4, landscape 1920×1080](animations/asd-closure-animation.mp4) (2:02, 11.1 MB) · [Watch the MP4, vertical 1080×1920](animations/asd-closure-animation-vertical.mp4) (2:02, 12.2 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg) · [4K landscape](animations/4k/asd-closure-animation-4k.mp4) (21.6 MB) · [4K vertical](animations/4k/asd-closure-animation-vertical-4k.mp4) (24.1 MB)
+[Watch the MP4, landscape 1920×1080, no voice](animations/asd-closure-animation.mp4) (2:02, 11.1 MB) · [Watch the MP4, vertical 1080×1920, no voice](animations/asd-closure-animation-vertical.mp4) (2:02, 12.2 MB) · [Vertical poster](animations/asd-closure-animation-vertical-poster.jpg) · [4K landscape, no voice](animations/4k/asd-closure-animation-4k.mp4) (21.6 MB) · [4K vertical, no voice](animations/4k/asd-closure-animation-vertical-4k.mp4) (24.1 MB)
 
 ### Transcatheter Aortic Valve Implantation (TAVI) — animated explainer
 
@@ -145,7 +145,7 @@ Schematic animation of transcatheter closure of a secundum atrial septal defect:
 
 Schematic animation of TAVI for severe aortic stenosis, including severe AS criteria, CT planning and valve sizing: transfemoral arterial access with a large-bore sheath, retrograde wire across the aortic valve into the left ventricle, temporary right ventricular pacing, optional balloon valvuloplasty, then the transcatheter valve positioned across the native annulus below the coronary ostia and deployed under rapid pacing (balloon-expandable valve shown; self-expanding valves are also used), restoring valve function, followed by post-deployment assessment and complications.
 
-[Watch the MP4, landscape 1920×1080](animations/tavi-animation.mp4) (2:00, 12.1 MB) · [Watch the MP4, vertical 1080×1920](animations/tavi-animation-vertical.mp4) (2:00, 14.2 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg) · [4K landscape](animations/4k/tavi-animation-4k.mp4) (24.2 MB) · [4K vertical](animations/4k/tavi-animation-vertical-4k.mp4) (28.7 MB)
+[Watch the MP4, landscape 1920×1080, no voice](animations/tavi-animation.mp4) (2:00, 12.1 MB) · [Watch the MP4, vertical 1080×1920, no voice](animations/tavi-animation-vertical.mp4) (2:00, 14.2 MB) · [Vertical poster](animations/tavi-animation-vertical-poster.jpg) · [4K landscape, no voice](animations/4k/tavi-animation-4k.mp4) (24.2 MB) · [4K vertical, no voice](animations/4k/tavi-animation-vertical-4k.mp4) (28.7 MB)
 
 ### Rotational Atherectomy (Rotablation) — animated explainer
 
@@ -153,7 +153,7 @@ Schematic animation of TAVI for severe aortic stenosis, including severe AS crit
 
 Schematic animation of coronary rotational atherectomy for severely calcified lesions: calcium scoring on OCT and IVUS (arc, thickness and length; a high score predicts stent underexpansion), IVUS showing 360° superficial calcium, 0.009-inch rotational atherectomy guidewire, diamond-coated burr sized at a burr-to-artery ratio of about 0.5–0.6, platform speed about 140,000–180,000 rpm in short pecking runs of about 15–20 s avoiding speed drops over 5,000 rpm with continuous flush, differential cutting of inelastic calcium, microparticles mostly under 10 µm, burr-entrapment prevention and bailout, then non-compliant balloon dilatation and drug-eluting stent with IVUS-confirmed expansion.
 
-[Watch the MP4, landscape 1920×1080](animations/rota-animation.mp4) (1:37, 13.0 MB) · [Watch the MP4, vertical 1080×1920](animations/rota-animation-vertical.mp4) (1:37, 13.3 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg) · [4K landscape](animations/4k/rota-animation-4k.mp4) (27.3 MB) · [4K vertical](animations/4k/rota-animation-vertical-4k.mp4) (27.5 MB)
+[Watch the MP4, landscape 1920×1080, no voice](animations/rota-animation.mp4) (1:37, 13.0 MB) · [Watch the MP4, vertical 1080×1920, no voice](animations/rota-animation-vertical.mp4) (1:37, 13.3 MB) · [Vertical poster](animations/rota-animation-vertical-poster.jpg) · [4K landscape, no voice](animations/4k/rota-animation-4k.mp4) (27.3 MB) · [4K vertical, no voice](animations/4k/rota-animation-vertical-4k.mp4) (27.5 MB)
 
 ### Intravascular Ultrasound (IVUS): Setup and Coronary Imaging — animated explainer
 
@@ -161,7 +161,7 @@ Schematic animation of coronary rotational atherectomy for severely calcified le
 
 Schematic animation of IVUS: console, patient interface module and motorised pullback sled, catheter flush, rotational (40–60 MHz) and phased-array (~20 MHz) catheters, heparin and intracoronary nitroglycerin, automated pullback with cross-sectional and longitudinal views, image anatomy and plaque types, minimal lumen area and plaque burden, landing zones and stent-sizing nuances (EEM-based distal reference diameter rounded down, or lumen-based diameter plus up to 0.5 mm, with proximal post-dilatation towards the proximal reference), and post-stent optimisation (expansion, apposition, edge dissection) with non-compliant balloon post-dilatation.
 
-[Watch the MP4, landscape 1920×1080](animations/ivus-animation.mp4) (1:41, 13.9 MB) · [Watch the MP4, vertical 1080×1920](animations/ivus-animation-vertical.mp4) (1:41, 14.0 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg) · [4K landscape](animations/4k/ivus-animation-4k.mp4) (30.0 MB) · [4K vertical](animations/4k/ivus-animation-vertical-4k.mp4) (29.6 MB)
+[Watch the MP4, landscape 1920×1080, no voice](animations/ivus-animation.mp4) (1:41, 13.9 MB) · [Watch the MP4, vertical 1080×1920, no voice](animations/ivus-animation-vertical.mp4) (1:41, 14.0 MB) · [Vertical poster](animations/ivus-animation-vertical-poster.jpg) · [4K landscape, no voice](animations/4k/ivus-animation-4k.mp4) (30.0 MB) · [4K vertical, no voice](animations/4k/ivus-animation-vertical-4k.mp4) (29.6 MB)
 
 ### Retrograde CTO Intervention — animated explainer
 
@@ -169,7 +169,7 @@ Schematic animation of IVUS: console, patient interface module and motorised pul
 
 136 s educational animation covering CTO definition, J-CTO score, dual injection, collateral grading and selection, retrograde setup and septal wire surfing, reverse CART and CART, externalization, IVUS-guided stenting, and complications. Dr. Mohd Maqbool Sohil, MD, DM, FSCAI, Interventional Cardiologist.
 
-[Watch the MP4, landscape 1920×1080](animations/retrograde-cto-animation.mp4) (2:16, 12.2 MB) · [Watch the MP4, vertical 1080×1920](animations/retrograde-cto-animation-vertical.mp4) (2:16, 12.8 MB) · [Vertical poster](animations/retrograde-cto-animation-vertical-poster.jpg) · [4K landscape](animations/4k/retrograde-cto-animation-4k.mp4) (23.1 MB) · [4K vertical](animations/4k/retrograde-cto-animation-vertical-4k.mp4) (24.1 MB)
+[Watch the MP4, landscape 1920×1080, no voice](animations/retrograde-cto-animation.mp4) (2:16, 12.2 MB) · [Watch the MP4, vertical 1080×1920, no voice](animations/retrograde-cto-animation-vertical.mp4) (2:16, 12.8 MB) · [Vertical poster](animations/retrograde-cto-animation-vertical-poster.jpg) · [4K landscape, no voice](animations/4k/retrograde-cto-animation-4k.mp4) (23.1 MB) · [4K vertical, no voice](animations/4k/retrograde-cto-animation-vertical-4k.mp4) (24.1 MB)
 
 ### Radial Angioplasty: Heart Stenting Through the Wrist — animated explainer
 
@@ -177,7 +177,22 @@ Schematic animation of IVUS: console, patient interface module and motorised pul
 
 Transradial (wrist) coronary angioplasty: non-surgical, no cut and no stitches; done through a small needle puncture under local anaesthesia. Covers access, route to the heart, balloon and drug-eluting stent, wrist compression band, recovery, and why radial access is preferred (RIVAL, MATRIX, ESC 2023 Class I-A).
 
-[Watch the MP4, landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation.mp4) (2:09, 11.2 MB) · [Watch the MP4, vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-vertical.mp4) (2:09, 11.0 MB) · [Poster](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-poster.jpg)
+[Watch the MP4, landscape 1920×1080, no voice](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation.mp4) (2:09, 11.2 MB) · [Watch the MP4, vertical 1080×1920, no voice](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-vertical.mp4) (2:09, 11.0 MB) · [Poster](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/radial-angioplasty-animation-poster.jpg)
+
+## Patient education animations, with English voice narration
+
+English voice narration of the schematic animations above (diagrams, not recordings of a patient). H.264 MP4, landscape and vertical, with an English voice track and English captions (.srt). For medical education only; not medical advice.
+
+- [Transcatheter ASD device closure](https://drmaqboolsohil.deed.page/gallery.html#v-asd-device-closure-animation) — device closure of a secundum atrial septal defect through a femoral vein. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/asd-closure-animation-narrated.mp4) (3:25, 17.5 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/asd-closure-animation-vertical-narrated.mp4) (3:25, 19.0 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/asd-closure-animation-narrated.srt)
+- [TAVI](https://drmaqboolsohil.deed.page/gallery.html#v-tavi-animation) — transcatheter implantation of an aortic valve for severe aortic stenosis. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/tavi-animation-narrated.mp4) (3:03, 17.8 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/tavi-animation-vertical-narrated.mp4) (3:03, 20.4 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/tavi-animation-narrated.srt)
+- [Rotational atherectomy](https://drmaqboolsohil.deed.page/gallery.html#v-rota-animation) — diamond-burr modification of severe coronary calcium before stent placement. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/rota-animation-narrated.mp4) (3:43, 21.6 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/rota-animation-vertical-narrated.mp4) (3:43, 22.0 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/rota-animation-narrated.srt)
+- [IVUS set-up and coronary imaging](https://drmaqboolsohil.deed.page/gallery.html#v-ivus-animation) — intravascular ultrasound from inside a coronary artery, used to size and check a stent. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/ivus-animation-narrated.mp4) (3:46, 23.2 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/ivus-animation-vertical-narrated.mp4) (3:46, 23.6 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/ivus-animation-narrated.srt)
+- [Retrograde CTO PCI](https://drmaqboolsohil.deed.page/gallery.html#v-retrograde-cto-animation) — crossing a chronic total coronary occlusion from the distal side, then stenting the artery. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/retrograde-cto-animation-narrated.mp4) (3:20, 18.2 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/retrograde-cto-animation-vertical-narrated.mp4) (3:20, 19.0 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/retrograde-cto-animation-narrated.srt)
+- [Radial Angioplasty: Heart Stenting Through the Wrist](https://drmaqboolsohil.deed.page/gallery.html#v-radial-angioplasty-animation) — coronary angioplasty and stent placement through the radial artery at the wrist. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/radial-angioplasty-animation-narrated.mp4) (2:49, 15.9 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/radial-angioplasty-animation-vertical-narrated.mp4) (2:49, 15.7 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/radial-angioplasty-animation-narrated.srt)
+- [Balloon Mitral Valvotomy (Inoue technique)](https://drmaqboolsohil.deed.page/gallery.html#v-bmv-animation) — opening a narrowed mitral valve without open-heart surgery. [Education page](https://drmaqboolsohil.deed.page/education.html#bmv) · [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/bmv-animation-narrated.mp4) (3:42, 18.7 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/bmv-animation-vertical-narrated.mp4) (3:42, 19.1 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/bmv-animation-narrated.srt) · [Poster](animations/bmv-animation-poster.jpg) · [Vertical poster](animations/bmv-animation-poster-vertical.jpg)
+
+  <a href="narrated/bmv-animation-narrated.mp4"><img src="animations/bmv-animation-poster.jpg" alt="Poster frame: Balloon Mitral Valvotomy (Inoue technique) animation" width="480"></a>
+
 
 ---
 

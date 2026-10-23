@@ -1,0 +1,219 @@
+1
+00:00:00,218 --> 00:00:03,953
+Transcatheter Aortic Valve
+Implantation, or TAVI,
+
+2
+00:00:04,003 --> 00:00:08,575
+explained by Dr. Mohd Maqbool
+Sohil, Interventional Cardiologist.
+
+3
+00:00:08,898 --> 00:00:10,862
+Heart in cut-away front view.
+
+4
+00:00:11,479 --> 00:00:15,931
+Blood leaves the left ventricle through
+the aortic valve into the aorta.
+
+5
+00:00:16,338 --> 00:00:19,823
+Severe aortic stenosis:
+the calcified, stiff,
+
+6
+00:00:19,873 --> 00:00:22,954
+tricuspid aortic valve
+opens only partially,
+
+7
+00:00:23,004 --> 00:00:25,730
+obstructing outflow from
+the left ventricle.
+
+8
+00:00:26,071 --> 00:00:31,607
+Severe aortic stenosis is defined by
+valve area, gradient and velocity.
+
+9
+00:00:32,200 --> 00:00:38,390
+With symptoms or reduced LV function,
+the Heart Team chooses TAVI or surgery.
+
+10
+00:00:39,229 --> 00:00:44,596
+ECG-gated CT measures the annulus,
+coronary heights and root anatomy,
+
+11
+00:00:44,646 --> 00:00:48,765
+and assesses the iliofemoral
+arteries for transfemoral access.
+
+12
+00:00:50,824 --> 00:00:55,205
+Valve size is chosen from CT
+annulus area or perimeter,
+
+13
+00:00:55,324 --> 00:00:57,336
+using the manufacturer's chart.
+
+14
+00:00:57,929 --> 00:01:00,286
+The values shown are illustrative.
+
+15
+00:01:00,804 --> 00:01:01,745
+Step one.
+
+16
+00:01:02,326 --> 00:01:03,861
+Transfemoral access:
+
+17
+00:01:03,933 --> 00:01:08,111
+a large-bore sheath is placed in
+the femoral artery at the groin.
+
+18
+00:01:08,550 --> 00:01:12,917
+A catheter and guidewire are
+advanced retrograde up the aorta,
+
+19
+00:01:12,967 --> 00:01:16,122
+around the aortic arch,
+to the ascending aorta.
+
+20
+00:01:16,538 --> 00:01:17,347
+Step two.
+
+21
+00:01:17,976 --> 00:01:20,345
+The guidewire crosses the narrowed valve.
+
+22
+00:01:20,976 --> 00:01:25,940
+A stiff, pre-shaped wire is left
+curled in the left ventricular apex.
+
+23
+00:01:26,371 --> 00:01:27,311
+Step three.
+
+24
+00:01:27,928 --> 00:01:31,571
+A temporary pacing wire is
+placed in the right ventricle,
+
+25
+00:01:31,678 --> 00:01:34,071
+via a vein, for rapid pacing.
+
+26
+00:01:34,424 --> 00:01:39,674
+Optional: balloon valvuloplasty pre-dilates
+the narrowed valve during rapid pacing.
+
+27
+00:01:40,004 --> 00:01:40,909
+Step four.
+
+28
+00:01:41,550 --> 00:01:45,585
+The transcatheter valve, crimped
+onto a balloon delivery catheter,
+
+29
+00:01:45,704 --> 00:01:48,454
+is advanced over the wire around the arch.
+
+30
+00:01:48,858 --> 00:01:52,048
+It is positioned across
+the native aortic annulus,
+
+31
+00:01:52,108 --> 00:01:54,953
+below the openings of
+the coronary arteries.
+
+32
+00:01:55,338 --> 00:01:56,290
+Step five.
+
+33
+00:01:56,847 --> 00:02:00,692
+During rapid pacing, the balloon
+expands the valve frame.
+
+34
+00:02:01,228 --> 00:02:06,169
+The calcified native leaflets are
+pushed aside against the aortic wall.
+
+35
+00:02:06,471 --> 00:02:07,423
+Step six.
+
+36
+00:02:08,028 --> 00:02:09,778
+The balloon is deflated.
+
+37
+00:02:10,385 --> 00:02:14,457
+The delivery system, wires and
+pacing wire are withdrawn,
+
+38
+00:02:14,528 --> 00:02:17,195
+and the femoral access site is closed.
+
+39
+00:02:17,624 --> 00:02:22,408
+Valve function is restored: the
+new valve opens fully and closes,
+
+40
+00:02:22,458 --> 00:02:26,219
+improving blood flow from the
+left ventricle into the aorta.
+
+41
+00:02:26,658 --> 00:02:31,179
+Immediately after deployment,
+paravalvular leak, valve gradient,
+
+42
+00:02:31,229 --> 00:02:34,800
+coronary flow, rhythm and
+the access site are checked.
+
+43
+00:02:37,118 --> 00:02:42,091
+Complications include stroke, conduction
+disturbance needing a pacemaker,
+
+44
+00:02:42,141 --> 00:02:47,177
+vascular injury and, rarely, coronary
+obstruction or annular rupture.
+
+45
+00:02:48,138 --> 00:02:49,373
+Careful selection,
+
+46
+00:02:49,423 --> 00:02:54,411
+CT planning and post-deployment assessment
+underpin a safe TAVI procedure.
+
+47
+00:02:57,158 --> 00:03:02,336
+This animation is for education and is
+not a substitute for medical advice.
+

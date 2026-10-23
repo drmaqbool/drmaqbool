@@ -1,0 +1,231 @@
+1
+00:00:00,258 --> 00:00:05,100
+Retrograde Chronic Total Occlusion,
+or CTO, Coronary Intervention,
+
+2
+00:00:05,150 --> 00:00:09,710
+explained by Dr. Mohd Maqbool
+Sohil, Interventional Cardiologist.
+
+3
+00:00:10,127 --> 00:00:16,017
+A chronic total occlusion, or CTO, is a
+coronary artery that is completely blocked,
+
+4
+00:00:16,067 --> 00:00:20,484
+with TIMI 0 flow, for an
+estimated three months or longer.
+
+5
+00:00:20,904 --> 00:00:23,916
+Proximal and distal cap anatomy matters.
+
+6
+00:00:24,485 --> 00:00:27,792
+The J-CTO score adds one point for each
+
+7
+00:00:27,842 --> 00:00:30,830
+feature that makes
+guidewire crossing harder.
+
+8
+00:00:31,258 --> 00:00:36,124
+Dual injection: both coronary arteries
+are injected at the same time,
+
+9
+00:00:36,174 --> 00:00:41,008
+to show the proximal cap, occlusion
+length, distal vessel and collaterals.
+
+10
+00:00:41,424 --> 00:00:44,172
+The hybrid algorithm
+uses these angiographic
+
+11
+00:00:44,222 --> 00:00:47,231
+features to choose
+between antegrade wiring,
+
+12
+00:00:47,281 --> 00:00:51,520
+antegrade dissection and re-entry,
+and the retrograde approach.
+
+13
+00:00:51,884 --> 00:00:54,432
+Collaterals are graded and selected.
+
+14
+00:00:55,025 --> 00:00:57,427
+Septal channels are generally preferred;
+
+15
+00:00:57,477 --> 00:01:02,572
+tortuous epicardial channels carry a
+higher risk of perforation and tamponade.
+
+16
+00:01:03,050 --> 00:01:06,050
+A guide is placed in each coronary artery.
+
+17
+00:01:06,620 --> 00:01:09,000
+Over a wire in the donor LAD,
+
+18
+00:01:09,179 --> 00:01:13,739
+a microcatheter is positioned at the
+entry of the chosen septal channel.
+
+19
+00:01:14,051 --> 00:01:18,860
+Septal surfing: a soft wire is
+gently advanced through the channel.
+
+20
+00:01:19,406 --> 00:01:24,751
+Tip injections show its course, and the
+microcatheter follows to the distal RCA
+
+21
+00:01:25,158 --> 00:01:29,810
+Ways to cross the occlusion from the
+distal end: direct retrograde wiring,
+
+22
+00:01:29,860 --> 00:01:35,086
+kissing wire, or reverse CART, controlled
+antegrade and retrograde tracking.
+
+23
+00:01:35,491 --> 00:01:40,134
+Reverse CART: an antegrade balloon
+enlarges the subintimal space.
+
+24
+00:01:40,715 --> 00:01:42,750
+The retrograde wire enters it,
+
+25
+00:01:42,834 --> 00:01:47,036
+and continues into the proximal
+true lumen and the antegrade guide.
+
+26
+00:01:47,358 --> 00:01:49,691
+In CART, the roles are reversed.
+
+27
+00:01:50,355 --> 00:01:54,198
+A guide extension placed near
+the occlusion makes it easier
+
+28
+00:01:54,248 --> 00:01:57,689
+for the retrograde wire to
+enter the antegrade system.
+
+29
+00:01:58,058 --> 00:02:04,698
+Externalisation: a long wire,
+for example RG3, 330 cm,
+
+30
+00:02:04,748 --> 00:02:08,615
+is passed through the microcatheter
+and out of the antegrade guide,
+
+31
+00:02:08,665 --> 00:02:11,058
+giving a stable rail for treatment.
+
+32
+00:02:11,491 --> 00:02:15,408
+Over the externalised wire,
+the occlusion is predilated.
+
+33
+00:02:16,012 --> 00:02:19,808
+Then IVUS confirms the wire
+course and measures the vessel,
+
+34
+00:02:19,858 --> 00:02:22,108
+to choose stent size and length.
+
+35
+00:02:22,558 --> 00:02:27,603
+Drug-eluting stents are implanted from
+healthy distal to healthy proximal segments,
+
+36
+00:02:27,653 --> 00:02:30,962
+then optimised with high-pressure
+balloon dilatation.
+
+37
+00:02:31,358 --> 00:02:36,962
+After removing the retrograde equipment,
+a final dual injection checks RCA flow,
+
+38
+00:02:37,012 --> 00:02:39,846
+the donor artery and
+the collateral channel.
+
+39
+00:02:40,171 --> 00:02:43,600
+Key risks are donor artery
+ischaemia or dissection,
+
+40
+00:02:43,719 --> 00:02:46,826
+collateral perforation
+and equipment entrapment.
+
+41
+00:02:47,407 --> 00:02:51,919
+Prevention relies on channel choice,
+gentle technique and monitoring.
+
+42
+00:02:52,251 --> 00:02:53,013
+Summary.
+
+43
+00:02:53,606 --> 00:02:57,201
+Retrograde is considered for
+an ambiguous proximal cap,
+
+44
+00:02:57,356 --> 00:02:59,437
+a poor distal target or a long,
+
+45
+00:02:59,487 --> 00:03:02,996
+complex occlusion, suitable
+interventional collaterals,
+
+46
+00:03:03,046 --> 00:03:05,177
+or a failed antegrade approach.
+
+47
+00:03:05,737 --> 00:03:10,925
+For safety: prefer septal channels,
+protect the donor artery and guide,
+
+48
+00:03:10,975 --> 00:03:13,606
+and check for perforation at the end.
+
+49
+00:03:13,991 --> 00:03:19,170
+This animation is for education and is
+not a substitute for medical advice.
+
