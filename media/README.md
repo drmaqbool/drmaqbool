@@ -193,6 +193,10 @@ English voice narration of the schematic animations above (diagrams, not recordi
 
   <a href="narrated/bmv-animation-narrated.mp4"><img src="animations/bmv-animation-poster.jpg" alt="Poster frame: Balloon Mitral Valvotomy (Inoue technique) animation" width="480"></a>
 
+- [Rotablation for calcified in-stent restenosis (stent-in-stent), 4:29](https://drmaqboolsohil.deed.page/gallery.html#v-rota-isr-animation) — IVUS/OCT diagnosis of an under-expanded, calcified stent, rotational atherectomy, non-compliant balloon, a new drug-eluting stent inside the old stent, post-dilatation and final imaging; 22 references. [Landscape 1920×1080](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/rota-isr-animation-narrated.mp4) (4:29, 30.5 MB) · [Vertical 1080×1920](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/rota-isr-animation-vertical-narrated.mp4) (4:29, 27.1 MB) · [English captions](https://github.com/drmaqbool/drmaqbool/raw/main/media/animations/narrated/rota-isr-animation-narrated.srt) · [Poster](animations/rota-isr-animation-poster.jpg) · [Vertical poster](animations/rota-isr-animation-vertical-poster.jpg)
+
+  <a href="animations/narrated/rota-isr-animation-narrated.mp4"><img src="animations/rota-isr-animation-poster.jpg" alt="Poster frame: Rotablation for calcified in-stent restenosis animation" width="480"></a>
+
 
 ---
 
